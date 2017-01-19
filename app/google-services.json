@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "907254777758",
+    "firebase_url": "https://notification-29fb8.firebaseio.com",
+    "project_id": "notification-29fb8",
+    "storage_bucket": "notification-29fb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907254777758:android:7eb30131e09c6958",
+        "android_client_info": {
+          "package_name": "com.indianic.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907254777758-nmdgugvbh5cueoq0fngad8livqjhblvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWOZFpP9HnHtz0_V2kHPuTVgULwjXKLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907254777758:android:8012467f8b8a454e",
+        "android_client_info": {
+          "package_name": "com.indianic.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907254777758-nmdgugvbh5cueoq0fngad8livqjhblvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWOZFpP9HnHtz0_V2kHPuTVgULwjXKLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907254777758:android:206ebe3d9b5a713c",
+        "android_client_info": {
+          "package_name": "com.indianic.notification2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907254777758-nmdgugvbh5cueoq0fngad8livqjhblvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWOZFpP9HnHtz0_V2kHPuTVgULwjXKLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
